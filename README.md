@@ -1,4 +1,6 @@
 # flash_chat_app
+![image](https://github.com/JacklynConn/flash_chat/assets/148744079/374a35d3-f631-4704-b8cc-847e1d03d1af)
+
 
 A new Flutter project.
 
