@@ -23,10 +23,10 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: WelcomeScreen.id,
       routes: {
-        WelcomeScreen.id : (context) => const WelcomeScreen(),
-        LoginScreen.id : (context) => LoginScreen(),
-        RegistrationScreen.id : (context) => RegistrationScreen(),
-        ChatScreen.id : (context) => ChatScreen(),
+        WelcomeScreen.id: (context) => const WelcomeScreen(),
+        LoginScreen.id: (context) => LoginScreen(),
+        RegistrationScreen.id: (context) => RegistrationScreen(),
+        ChatScreen.id: (context) => ChatScreen(),
       },
     );
   }
