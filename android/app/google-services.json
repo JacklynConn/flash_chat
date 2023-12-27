@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948182690786",
+    "project_id": "flash-chat-3df55",
+    "storage_bucket": "flash-chat-3df55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948182690786:android:ba93cf5cc2fcca727ae7bb",
+        "android_client_info": {
+          "package_name": "com.makmach_flashchat.flash_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvzhCsLEclF8uSi5CeQrz4HhazAtwRXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
