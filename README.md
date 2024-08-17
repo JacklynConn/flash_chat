@@ -1,7 +1,5 @@
 # flash_chat_app
-![image](https://github.com/JacklynConn/flash_chat/assets/148744079/374a35d3-f631-4704-b8cc-847e1d03d1af)
-
-
+![Artboard 1](https://github.com/user-attachments/assets/d9611d3a-f49e-435a-88b7-f21760c7fe70)
 A new Flutter project.
 
 ## Getting Started
